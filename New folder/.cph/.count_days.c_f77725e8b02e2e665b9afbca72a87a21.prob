@@ -1,0 +1,1 @@
+{"name":"Local: count_days","url":"f:\\Lab\\New folder\\count_days.c","tests":[{"id":1683311045958,"input":"23/08/2023\n14/08/2002","output":"Days = 9, Months = 0 , Years = 21\nTotal days = 7674"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Lab\\New folder\\count_days.c","group":"local","local":true}

@@ -1,0 +1,10 @@
+redius = 4.500 , Area = 63.617
+redius = 6.564 , Area = 135.359
+redius = 4.456 , Area = 62.379
+redius = 9.700 , Area = 295.592
+redius = 34.670 , Area = 3776.222
+redius = 45.000 , Area = 6361.725
+redius = 2.700 , Area = 22.902
+redius = 56.400 , Area = 9993.281
+redius = 35.700 , Area = 4003.929
+redius = 3.900 , Area = 47.784
