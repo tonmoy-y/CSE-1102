@@ -1,4 +1,4 @@
-Structured programming Lab
+<h1>Structured programming Lab </h1>
 <br>
 Here is my codes of Structured programming lab. The lab was taken by Farjana Parvin Ma'am. 
 <br>
